@@ -83,9 +83,9 @@ tv-ratings-analysis/
 │
 ├── README.md
 ├── notebooks/
-│   └── tv_ratings_analysis_portfolio.ipynb
-├── data/ (optional)
-└── visuals/ (optional)
+│   └── tv ratings analysis portfolio.ipynb
+├── data/
+└── visuals/
 ```
 
 ---
