@@ -45,7 +45,7 @@ This project focuses on identifying patterns in TV ratings and evaluating how di
 
 ### 4. Forecasting Model
 
-* Built time series models (ARIMA / SARIMA)
+* Built time series models (ARIMAX)
 * Evaluated model performance using error metrics
 * Generated forecasts to support decision-making
 
@@ -83,7 +83,7 @@ tv-ratings-analysis/
 │
 ├── README.md
 ├── notebooks/
-│   └── tv ratings analysis portfolio.ipynb
+│   └── tv ratings analysis.ipynb
 ├── data/
 └── visuals/
 ```
